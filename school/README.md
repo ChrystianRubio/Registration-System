@@ -1,11 +1,13 @@
+# hi  :wave:
+
 
 First you need create in your pc, database with name: school
 
-`CREATE DATABASE school`;
+`CREATE DATABASE school;`
 
-After you need create a table: students
+After that you need to create the table: students
 
-`USE school`;
+`USE school;`
 
 ``` 
 CREATE TABLE students(id int not null auto_increment ,
