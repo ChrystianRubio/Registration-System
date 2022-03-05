@@ -1,7 +1,7 @@
 # hi  :wave:
 
 
-First you need create in your pc, database with name: school
+First you need to create database with name: school
 
 `CREATE DATABASE school;`
 
