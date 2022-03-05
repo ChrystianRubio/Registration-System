@@ -18,7 +18,7 @@ CREATE TABLE students(id int not null auto_increment ,
                      );
 ```
 
-and now you need modify 3 variables in Reg.java file to working correctly
+and now you need to modify 3 variables in Reg.java file to working correctly:
 
 ```
 line 28: dbPathName = "";  // set here your database path like: jdbc:mysql://[path]/school  
